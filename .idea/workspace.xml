@@ -11,12 +11,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deploy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding>
+                <element signature="e#6#167#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1053#1061#0#HTML" expanded="true" />
+                <element signature="e#1065#1073#0#HTML" expanded="true" />
+                <element signature="e#1144#1150#0#HTML" expanded="true" />
+                <marker date="1544786583322" expanded="true" signature="521:536" ph="..." />
+                <marker date="1544786583322" expanded="true" signature="563:578" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +56,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/deploy.php" />
       </list>
     </option>
   </component>
@@ -110,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544786535612</updated>
-      <workItem from="1544786537071" duration="13000" />
+      <workItem from="1544786537071" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13000" />
+    <option name="totallyTimeSpent" value="47000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="833" y="5" width="1094" height="1047" extended-state="0" />
@@ -156,6 +176,23 @@
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#167#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1053#1061#0#HTML" expanded="true" />
+            <element signature="e#1065#1073#0#HTML" expanded="true" />
+            <element signature="e#1144#1150#0#HTML" expanded="true" />
+            <marker date="1544786583322" expanded="true" signature="521:536" ph="..." />
+            <marker date="1544786583322" expanded="true" signature="563:578" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
