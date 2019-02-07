@@ -2,38 +2,32 @@ html,
 body,
 header,
 .view {
-  height: 50%;
-}
+  height: 50%; }
 
 .nav li a {
   font-size: 30px;
-  color: black;
-}
+  color: black; }
+
 .nav li a:first-letter {
   font-size: 40px;
-  color: #760155;
-}
+  color: #760155; }
 
 .contenido {
-  color: black;
-}
+  color: black; }
 
 #borrar, #modificar, #borrarLocal {
-  padding: 10px;
-}
+  padding: 10px; }
 
 #botonesAcciones {
-  display: flex;
-}
+  display: flex; }
 
 .active-cyan-2 #busqueda[type=text]:focus:not([readonly]) {
   border-bottom: 1px solid #4dd0e1;
-  box-shadow: 0 1px 0 0 #4dd0e1;
-}
+  box-shadow: 0 1px 0 0 #4dd0e1; }
+
 .active-cyan #busqueda[type=text] {
   border-bottom: 1px solid #4dd0e1;
-  box-shadow: 0 1px 0 0 #4dd0e1;
-}
+  box-shadow: 0 1px 0 0 #4dd0e1; }
 
 .scrollbar-cyan::-webkit-scrollbar-track {
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
@@ -68,15 +62,14 @@ header,
   height: 600px; }
 
 #modalModificar .modalModificarBorder, #modalModificarLocal .modalModificarBorder {
-  border-radius: 5px 5px 5px 5px;;
-  border: 3px solid #ffbb33 !important;
-}
+  border-radius: 5px 5px 5px 5px;
+  border: 3px solid #ffbb33 !important; }
 
 .modalanadirBorder {
-  border-radius: 5px 5px 5px 5px;;
-  border: 3px solid #4285f4 !important;
-}
+  border-radius: 5px 5px 5px 5px;
+  border: 3px solid #4285f4 !important; }
 
 .footer {
-  padding-top: 10px;
-}
+  padding-top: 10px; }
+
+/*# sourceMappingURL=style.css.map */
